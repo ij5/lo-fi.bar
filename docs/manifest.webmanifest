@@ -1,0 +1,22 @@
+{
+  "short_name": "Lo-Fi.bar",
+  "name": "Lo-Fi.bar",
+  "description": "Lofi music player",
+  "icons": [
+    {
+      "src": "https://filedn.com/ljcU5RLfox2Sbr04VfCcCX5/lo-fi.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "scope": "/",
+  "start_url": "/",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "display": "standalone"
+}
