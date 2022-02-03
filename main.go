@@ -74,7 +74,7 @@ func main() {
 		},
 		Styles: []string{
 			"https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500&display=swap",
-			"/docs/web/app.css",
+			"/web/app.css",
 		},
 
 		ThemeColor: backgroundColor,
